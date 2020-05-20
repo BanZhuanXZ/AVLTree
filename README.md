@@ -1,2 +1,2 @@
-# AVLTree
+# DataStructure
 Java
